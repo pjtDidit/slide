@@ -27,6 +27,9 @@ jobs:
 
       - run: npm ci
 
+      - name: Install Playwright (optional)
+        run: npm i -D playwright-chromium
+
       - name: Build (no export)
         run: npx slidev build --base /${{ github.event.repository.name }}/
 
