@@ -374,6 +374,20 @@ layout: fact
 </div>
 
 ---
+layout: figure
+figureUrl: "/DataGeneratePipeline.png"
+---
+
+# 이슈 중요도 추천 모델 데이터 생성 파이프라인
+
+---
+layout: figure
+figureUrl: "/SurmaryAiModel.png"
+---
+
+# 회의요약 AI 모델
+
+---
 layout: fact
 ---
 
